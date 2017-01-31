@@ -1,0 +1,6 @@
+c:\users\vihar\documents\visual studio 2015\Projects\Making_Palindrome\Making_Palindrome\bin\Debug\Making_Palindrome.exe.config
+c:\users\vihar\documents\visual studio 2015\Projects\Making_Palindrome\Making_Palindrome\bin\Debug\Making_Palindrome.exe
+c:\users\vihar\documents\visual studio 2015\Projects\Making_Palindrome\Making_Palindrome\bin\Debug\Making_Palindrome.pdb
+c:\users\vihar\documents\visual studio 2015\Projects\Making_Palindrome\Making_Palindrome\obj\Debug\Making_Palindrome.csprojResolveAssemblyReference.cache
+c:\users\vihar\documents\visual studio 2015\Projects\Making_Palindrome\Making_Palindrome\obj\Debug\Making_Palindrome.exe
+c:\users\vihar\documents\visual studio 2015\Projects\Making_Palindrome\Making_Palindrome\obj\Debug\Making_Palindrome.pdb
