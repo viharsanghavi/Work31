@@ -4,3 +4,6 @@ c:\users\vihar\documents\visual studio 2015\Projects\Calendar\Calendar\bin\Debug
 c:\users\vihar\documents\visual studio 2015\Projects\Calendar\Calendar\obj\Debug\Calendar.csprojResolveAssemblyReference.cache
 c:\users\vihar\documents\visual studio 2015\Projects\Calendar\Calendar\obj\Debug\Calendar.exe
 c:\users\vihar\documents\visual studio 2015\Projects\Calendar\Calendar\obj\Debug\Calendar.pdb
+D:\Extra\Work31\Calendar\Calendar\bin\Debug\Calendar.exe.config
+D:\Extra\Work31\Calendar\Calendar\obj\Debug\Calendar.exe
+D:\Extra\Work31\Calendar\Calendar\obj\Debug\Calendar.pdb

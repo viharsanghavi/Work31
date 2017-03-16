@@ -15,6 +15,7 @@ namespace Calendar
                 int[] monthCnt = new int[] { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
                 again:
                 Console.Write("Enter year: ");
+                Console.Write("Enter year: ");
                 temp = Console.ReadLine();
                 if (DigitsOnly(temp) == false)         //Check year contains only digits or not
                 {
